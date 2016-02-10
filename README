@@ -1,0 +1,5 @@
+This is what the program does:
+
+1. Creates 4 random alphabetical, alphanumeric, integer and real number strings—with random length
+2. Stores the strings into a csv file--separated by commas 
+3. Reads the csv file, and processes those strings and declare what type of string they are in the terminal
